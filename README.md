@@ -31,4 +31,5 @@ Notebook ini terdiri dari beberapa bagian utama:
 5. **Visualisasi Hasil**: Menampilkan hasil deteksi objek secara visual.
 
 ## Hasil Akhir
-![Output] (output1.png)
+![Hasil Deteksi](output1.png)
+
